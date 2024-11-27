@@ -4,9 +4,9 @@
 
 This is the code for the tutorial [**How to use Drizzle ORM in Next.js App Router | Explained with project**](https://youtu.be/SxuPB-04Tdw). -->
 
-This branch contains the starter code.
+This branch contains the final code.
 
-For the final code, check out the [`final`](https://github.com/max-programming/useactionstate-demo/tree/final) branch.
+For the final code, check out the [`main`](https://github.com/max-programming/useactionstate-demo) branch.
 
 ## How to use
 
